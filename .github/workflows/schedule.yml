@@ -1,5 +1,4 @@
-name: Schedule Workflow on every 2 minutes
-
+name: Schedule Workflow Every 2 Minutes
 
 on:
   schedule:
